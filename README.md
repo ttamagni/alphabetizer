@@ -7,6 +7,9 @@ Below is a list of technologies used to build this application. Any previous ver
 - Maven 3.6.3
 - Java 1.8
 
+# Javadocs
+Javadocs are provided on [GitHub Pages](https://ttamagni.github.io/alphabetizer/).
+
 # Building
 Clone the repository
 ```
