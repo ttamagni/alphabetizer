@@ -10,6 +10,9 @@ Below is a list of technologies used to build this application. Any previous ver
 # Javadocs
 Javadocs are provided on [GitHub Pages](https://ttamagni.github.io/alphabetizer/).
 
+# Code Coverage Report
+A code coverage report is also available on [GitHub Pages](https://ttamagni.github.io/alphabetizer/)
+
 # Building
 Clone the repository
 ```
